@@ -1,4 +1,4 @@
-module sql
+module github.com/mughub/sql
 
 require (
 	github.com/graphql-go/graphql v0.7.7
